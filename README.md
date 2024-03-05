@@ -1,0 +1,1 @@
+EVERY DIRECTORY (input project name)
